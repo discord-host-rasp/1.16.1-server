@@ -1,0 +1,1 @@
+java -Xms500M -Xmx750 -jar 1.16.1-server.jar
